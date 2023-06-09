@@ -1,7 +1,2 @@
-package BankApp;
-
-public class main {
-    public static void main(String[] args) {
-
-    }
+package BankApp;public class main {
 }
